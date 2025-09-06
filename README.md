@@ -1,13 +1,29 @@
-# Roadmap Belajar Flutter
+# 00 - Introduction
 
-Selamat datang!!!
-Repositori ini dibuat untuk membantu yang mau belajar **Flutter dari nol** hingga bisa membuat aplikasi sendiri.  
-Setiap topik/step disimpan di **branch terpisah**, sehingga bisa mempelajarinya secara bertahap.
+Pada tahap ini kita akan mempersiapkan lingkungan pengembangan Flutter.  
+Target kamu setelah menyelesaikan bagian ini:
+- Mengerti apa itu Flutter
+- Menginstall Flutter SDK
 
 ---
 
-## Cara Menggunakan
-1. Clone repositori ini:
-   ```bash
-   git clone https://github.com/username/flutter-learning-roadmap.git
-   cd flutter-learning-roadmap
+## Apa itu Flutter?
+Flutter adalah framework open-source dari Google untuk membuat aplikasi **mobile, web, dan desktop** hanya dengan **satu codebase**.  
+Bahasa pemrograman yang digunakan adalah **Dart**.
+
+---
+
+## Instalasi Flutter
+
+### 1. Download Flutter SDK
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)  
+Pilih sesuai sistem operasi (Windows, macOS, Linux).
+
+### 2. Tambahkan ke PATH
+- Ekstrak folder `flutter`
+- Tambahkan `flutter/bin` ke dalam `PATH` environment variable
+
+### 3. Cek instalasi
+Jalankan:
+```bash
+flutter doctor
