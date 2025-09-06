@@ -9,5 +9,5 @@ Setiap topik/step disimpan di **branch terpisah**, sehingga bisa mempelajarinya 
 ## Cara Menggunakan
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/flutter-learning-roadmap.git
+   https://github.com/balbinopb/flutter-learning-roadmap.git
    cd flutter-learning-roadmap
